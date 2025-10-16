@@ -35,8 +35,8 @@ Previously: health care intern at the Center for American Progress; English teac
 - Can expertly parallel park any car
 
 ## Tools & skills
-Policy analysis · strategic communications · partnership development · fundraising · grant writing  
-Data governance · privacy tech · R/Python for analysis · project managment 
+policy analysis · strategic communications · partnership development · fundraising · grant writing ·   
+data governance · privacy tech · R/Python for analysis · project managment 
 
 ## Reach me
 - **[LinkedIn](https://www.linkedin.com/in/claire-koyle/)**   

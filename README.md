@@ -21,6 +21,7 @@ Previously: health care intern at the Center for American Progress; English teac
 - **Languages:** English, learning Spanish  
 - **Outdoor Lover:** running, skiing, hiking, yoga, gardening, foraging  
 - **What I'm Reading:** *Peace Like a River* & *Eat the Weeds* (recently: *Plainsong*, *Bury My Heart at Wounded Knee*)
+- **Cannot Live Without:** Coffee
 - **Favorite Thing**: My dog Taiko
 
 <p float="left">

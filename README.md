@@ -17,7 +17,7 @@ Previously: health care intern at the Center for American Progress; English teac
 - **From:** Denver, Colorado  
 - **Languages:** English, learning Spanish  
 - **Outdoor Lover:** running, skiing, hiking, yoga, gardening, foraging  
-- **Big Into Reading:** *Peace Like a River* & *Eat the Weeds* (recently: *Plainsong*, *Bury My Heart at Wounded Knee*)
+- **What I'm Reading:** *Peace Like a River* & *Eat the Weeds* (recently: *Plainsong*, *Bury My Heart at Wounded Knee*)
 
 ## Fun facts
 - I've been writing in **journals since 2020** — four full notebooks and counting

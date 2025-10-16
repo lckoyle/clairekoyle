@@ -22,7 +22,7 @@ Previously: health care intern at the Center for American Progress; English teac
 - **Outdoor Lover:** running, skiing, hiking, yoga, gardening, foraging  
 - **What I'm Reading:** *Peace Like a River* & *Eat the Weeds* (recently: *Plainsong*, *Bury My Heart at Wounded Knee*)
 - **Cannot Live Without:** Coffee
-- **Favorite Thing**: My dog Taiko
+- **Best Friend**: My dog Taiko (see below)
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/e5e1791e-b558-49c3-812d-2acdcc4025be" width="30%" />

@@ -1,9 +1,12 @@
 # Claire Koyle
 
+
+
 **strategy @ OpenMined** · data governance · health & tech · 
 Denver, Colorado · ENTP · she/her
 
-I care about building bridges between technology, policy, and community health.  
+I care about building bridges between technology, policy, and community health. 
+
 I recently earned my M.S. in Public Policy & Management from Carnegie Mellon University.  
 Previously: health care intern at the Center for American Progress; English teacher in South Korea; commercial salmon fisher-woman in Alaska; city council campaign manager in Denver
 
@@ -18,6 +21,10 @@ Previously: health care intern at the Center for American Progress; English teac
 - **Languages:** English, learning Spanish  
 - **Outdoor Lover:** running, skiing, hiking, yoga, gardening, foraging  
 - **What I'm Reading:** *Peace Like a River* & *Eat the Weeds* (recently: *Plainsong*, *Bury My Heart at Wounded Knee*)
+- **Favorite Thing**: My dog Taiko
+
+![8429F56A-5A9C-4878-8BF9-11598A61E9A0 poster](https://github.com/user-attachments/assets/ebedb99a-89a8-4b7f-abee-48d30c0192a4)
+
 
 ## Fun facts
 - I've been writing in **journals since 2020** — four full notebooks and counting

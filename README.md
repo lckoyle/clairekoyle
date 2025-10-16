@@ -12,9 +12,9 @@ Previously: health care intern at the Center for American Progress; English teac
 
 ---
 
-## What I'm focused on
+## What I'm working on now
 - Partnerships, fundraising, and strategy at **OpenMined** to advance privacy-preserving data collaboration  
-- Writing and research on AI in rural healthcare and equitable data access
+- Writing and research on AI in rural healthcare and equitable access
 
 ## A bit more about me
 - **From:** Denver, Colorado  

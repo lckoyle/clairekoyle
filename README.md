@@ -1,6 +1,6 @@
 # Claire Koyle
 
-**strategy @ OpenMined** · data governance · health & tech
+**strategy @ OpenMined** · data governance · health & tech · 
 Denver, Colorado · ENTP · she/her
 
 I care about building bridges between technology, policy, and community health.  

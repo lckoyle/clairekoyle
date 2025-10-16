@@ -23,8 +23,11 @@ Previously: health care intern at the Center for American Progress; English teac
 - **What I'm Reading:** *Peace Like a River* & *Eat the Weeds* (recently: *Plainsong*, *Bury My Heart at Wounded Knee*)
 - **Favorite Thing**: My dog Taiko
 
-![54B3D51D-8385-4F61-A066-E381AD319E29](https://github.com/user-attachments/assets/e5e1791e-b558-49c3-812d-2acdcc4025be)
-
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/e5e1791e-b558-49c3-812d-2acdcc4025be" width="30%" />
+  <img src="https://github.com/user-attachments/assets/2c9f0c35-6138-42c7-8969-0c1c61fdf9c5" width="30%" />
+  <img src="https://github.com/user-attachments/assets/602a4cd1-590a-4501-aabd-a94b8b10d5ab" width="30%" />
+</p>
 
 ## Fun facts
 - I've been writing in **journals since 2020** — four full notebooks and counting

@@ -10,8 +10,7 @@ Previously: health care intern at the Center for American Progress; English teac
 ---
 
 ## What I'm focused on
-- Partnerships, fundraising, and strategy at **OpenMined** to advance privacy-preserving data collectivism  
-- Practical governance for sensitive data (healthcare, public interest tech)  
+- Partnerships, fundraising, and strategy at **OpenMined** to advance privacy-preserving data collaboration  
 - Writing and research on AI in rural healthcare and equitable data access
 
 ## A bit more about me

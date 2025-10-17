@@ -7,8 +7,9 @@ Denver, Colorado · ENTP · she/her
 
 I care about building bridges between technology, policy, and community health. 
 
-I recently earned my M.S. in Public Policy & Management from Carnegie Mellon University.  
-Previously: health care intern at the Center for American Progress; English teacher in South Korea; commercial salmon fisher-woman in Alaska; city council campaign manager in Denver
+I earned my M.S. in Public Policy & Management from **Carnegie Mellon University** and my B.A. in Politics and Environmental Studies from **Whitman College**. 
+
+**Previously**: health care intern at the Center for American Progress; English teacher in South Korea; commercial salmon fisher-woman in Alaska; city council campaign manager in Denver
 
 ---
 

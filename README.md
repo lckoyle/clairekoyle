@@ -41,4 +41,4 @@ policy analysis · strategic communications · partnership development · fundra
 data governance · privacy tech · R/Python for analysis · project managment 
 
 ## Reach me
-- **[LinkedIn](https://www.linkedin.com/in/claire-koyle/)**   
+- **[LinkedIn](https://www.linkedin.com/in/clairekoyle/)**   
